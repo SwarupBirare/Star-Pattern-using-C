@@ -1,4 +1,4 @@
-# Star-Pattern-using-C
+# **Star-Pattern-using-C**
 
 Welcome to the Star Patterns using C repository! This project contains various star patterns implemented using nested loops in C. It serves as a learning resource for beginners who want to understand the fundamentals of loops, functions, and pattern generation in C programming.
 
